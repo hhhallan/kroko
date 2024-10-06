@@ -1,0 +1,9 @@
+{
+  "name": "kroko",
+  "version": "1.0.0",
+  "description": "Bibliothèque de composants pour Next.js",
+  "main": "index.js",
+  "bin": {
+    "kroko": "./bin/kroko.js"
+  }
+}
